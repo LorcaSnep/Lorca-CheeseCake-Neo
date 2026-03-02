@@ -8,8 +8,8 @@ However, the ESP-12F processor is the one pain point that I have had with these 
 
 ## Status:
 As of 3/1/26 I am awaiting delivery of V4.0.  This version is a small iteration on the previous version which fixes the status LED and has some minor tweaks with the buck converter section.  This previous version is functioning with the latest version of SlimeVR firmware installed and I have been using it regularly for several weeks.
-
 V4.0 PCB Design:
+
 ![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/c23f72a5d674bf8b0cda46dcf7c64be277d452cc/Images/Lorca%20Cheesecake%20Neo%20V4.0%20Front.PNG)
 
 ![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/c23f72a5d674bf8b0cda46dcf7c64be277d452cc/Images/Lorca%20Cheesecake%20Neo%20V4.0%20Back.PNG)
