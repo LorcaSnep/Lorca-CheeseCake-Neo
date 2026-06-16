@@ -15,11 +15,20 @@ I have nicknamed these designs of trackers Pineapple as all of the other variant
 ## Status:
 As of 6/16/26 I am awaiting delivery of V4.5.  This version is a small revision on the previous version which fixes the status LED and has some minor tweaks with the buck converter section.  The previous version is functioning with the latest version of SlimeVR firmware installed and I have been using it for several months.
 
-V4.0 PCB Design:
+## Pineapple ICM:
+![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20ICM.PNG)
 
-![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/c23f72a5d674bf8b0cda46dcf7c64be277d452cc/Images/Lorca%20Cheesecake%20Neo%20V4.0%20Front.PNG)
+## Pineapple LSM:
+![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20LSM.PNG)
 
-![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/c23f72a5d674bf8b0cda46dcf7c64be277d452cc/Images/Lorca%20Cheesecake%20Neo%20V4.0%20Back.PNG)
+## Pineapple ICM AUX:
+![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20ICM%20AUX.PNG)
+
+## Pineapple ICM AUX Module:
+![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20ICM%20AUX%20Module.PNG)
+
+## Pineapple LSM AUX Module:
+![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20LSM%20AUX%20Module.PNG)
 
 ## Ordering Information:
 
