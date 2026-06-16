@@ -18,19 +18,29 @@ As of 6/16/26 I am awaiting delivery of V4.5.  This version is a small revision 
 Additionally, I would like to design a version of the charging dock pcb with the same goal as the Pineapple tracker.  To swap the components to ones easily obtained from Mouser or Digikey.
 
 ## Pineapple ICM:
-![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20ICM.PNG)
+<p align="center">
+  <img src="https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20ICM.PNG" alt="Pineapple ICM" width="400"/>
+</p>
 
 ## Pineapple LSM:
-![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20LSM.PNG)
+<p align="center">
+  <img src="https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20LSM.PNG" alt="Pineapple LSM" width="400"/>
+</p>
 
 ## Pineapple ICM AUX:
-![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20ICM%20AUX.PNG)
+<p align="center">
+  <img src="https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20ICM%20AUX.PNG" alt="Pineapple ICM AUX" width="400"/>
+</p>
 
 ## Pineapple ICM AUX Module:
-![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20ICM%20AUX%20Module.PNG)
+<p align="center">
+  <img src="https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20ICM%20AUX%20Module.PNG" alt="Pineapple ICM AUX Module" width="300"/>
+</p>
 
 ## Pineapple LSM AUX Module:
-![Error](https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20LSM%20AUX%20Module.PNG)
+<p align="center">
+  <img src="https://github.com/LorcaSnep/Lorca-CheeseCake-Neo/blob/1a77dbad9cac7a7ded28ecf1e120e503ebd8ce01/Images/Cheesecake%20Neo%20Pineapple%20LSM%20AUX%20Module.PNG" alt="Pineapple LSM AUX Module" width="300"/>
+</p>
 
 ## Ordering Information:
 I have utilized JLCPCB for the production of the boards that I have tested.  The following directions are written with JLC in mind.  After downloading the zip file for the specific board variant, directly upload this to JLC.  It will automatically determine the board size and layer count.  Select the number of PCBs you want.  JLC offers quantities in multiples of 5 so plan accordingly.  Make sure to set the PCB Thickness to 1.0mm instead of the default 1.6mm.  All other options can remain as they are.  Make sure to add a solder stencil.  At the moment I have not added any pick and place files to this project and I have not compared the parts used in this projects to those that JLC keeps in stock (via LCSC).  A solder stencil will be required to assemble these boards and I recommend using a hot plate to solder these boards.
